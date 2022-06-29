@@ -2,7 +2,7 @@
 
 - Name  : Abdul Rohman
 - Class : TI-3H
-- Nim   : 1941720022
+- NIM   : 1941720022
 
 ## BIG DATA FINAL PROJECT
 so this is my final project resource, I take Covid-19 as my studi cases (all the explanation evailable in my video thanks)
