@@ -5,6 +5,8 @@
 - Nim   : 1941720022
 
 ## BIG DATA FINAL PROJECT
+so this is my final project resource, I take Covid-19 as my studi cases (all the explanation evailable in my video thanks)
+
 - Final Project Big Data file : Covid19_Data_Analitycs_&_Visualizaation_(UAS_BIGDATA).ipynb
 - Link Video for the Final Project BIG DATA : https://youtu.be/wWuaPLvBevQ
 - Covid Dataset : https://drive.google.com/file/d/1XePdpS7hKPyrlZFWAOKEqbRN48I1gYSF/view?usp=sharing
